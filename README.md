@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on building scalable solutions leveraging microservices. <br>📚 I'm learning Flutter and AWS right now</p>
+<p align="left">🔭 I’m currently working on building scalable solutions leveraging microservices for next-gen banking. <br>🧑‍💻 I'm also contributing to <a href="https://gitlab.com/gauravmarwal">Gitlab OSS</a> <br>📚 Learning Reactjs and AWS right now</p>
 
 ###
 

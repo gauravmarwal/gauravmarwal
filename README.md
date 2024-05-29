@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on building scalable solutions leveraging microservices for next-gen banking. <br>🧑‍💻 I'm also contributing to <a href="https://gitlab.com/gauravmarwal">Gitlab OSS</a> <br>📚 Learning Reactjs and AWS right now</p>
+<p align="left">🔭 I’m currently working on building scalable solutions leveraging microservices for next-gen banking. <br>🧑‍💻 I'm also contributing to <a href="https://gitlab.com/gauravmarwal">Gitlab OSS</a> <br>📚 Learning Reactjs and AWS right now<br>📫 How to reach me: <a href="mailto:gauravmarwal99@gmail.com">gauravmarwal99@gmail.com</a></p> 
 
 ###
 
@@ -22,7 +22,16 @@
   <a href="https://www.linkedin.com/in/gaurav-marwal/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+<a href="https://x.com/marinekxng" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
+
+###
+
+<h2 align="left">Open Source Contributions:</h2>
+
+###
 
 ###
 
@@ -37,7 +46,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
@@ -61,7 +70,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" alt="gradle logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gradle_logo.png" height="40" alt="gradle logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
   <img width="12" />

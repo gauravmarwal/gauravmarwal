@@ -32,6 +32,8 @@
 <h2 align="left">Open Source Contributions:</h2>
 
 ###
+<!-- MERGED_PULL_REQUESTS_START -->
+<!-- MERGED_PULL_REQUESTS_END -->
 
 ###
 

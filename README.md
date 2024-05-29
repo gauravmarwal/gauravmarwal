@@ -38,6 +38,14 @@
 
 ###
 
+<h2 align="left">Leetcode:</h2>
+
+###
+
+![](https://leetcard.jacoblin.cool/gauravmarwal?theme=dark&font=Fira%20Code&ext=contest)
+
+###
+
 <h2 align="left">Tech Stack:</h2>
 
 ###

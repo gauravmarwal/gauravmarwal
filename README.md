@@ -42,7 +42,7 @@
 
 ###
 
-![](https://leetcard.jacoblin.cool/gauravmarwal?theme=dark&font=Fira%20Code&ext=contest)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/gauravmarwal?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/u/gauravmarwal/)
 
 ###
 

@@ -1,0 +1,30 @@
+name: contributions
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs every midnight
+  workflow_dispatch: # run on workflow dispatch
+
+jobs:
+  update-contributions:
+    name: Update latest contributions
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Contributions Badge
+        uses: imskr/contributions-badge@main
+        with:
+          organization: "gitlab-org"
+          project: "gitlab"
+          platform: "gitlab"
+          username: "gauravmarwal"
+
+      - name: Contributions Badge
+        uses: imskr/contributions-badge@main
+        with:
+          organization: "gitlab-org"
+          project: "gitlab-shell"
+          platform: "gitlab"
+          username: "gauravmarwal"
+      

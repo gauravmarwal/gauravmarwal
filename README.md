@@ -34,6 +34,7 @@
 ###
 <!-- MERGED_PULL_REQUESTS_START -->
 [![](https://badgen.net/badge/gitlab-org%2Fgitlab-shell/31%20pull%20requests%20merged/orange?icon=gitlab)](https://gitlab.com/gitlab-org/gitlab-shell/-/merge_requests?scope=all&state=merged&author_username=gauravmarwal)
+[![](https://badgen.net/badge/gitlab-org%2Fgitlab/88%20pull%20requests%20merged/orange?icon=gitlab)](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&state=merged&author_username=gauravmarwal)
 <!-- MERGED_PULL_REQUESTS_END -->
 
 ###

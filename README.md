@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on building scalable solutions leveraging microservices for next-gen banking. <br>🧑‍💻 I'm also contributing to <a href="https://gitlab.com/gauravmarwal">Gitlab OSS</a> <br>📚 Learning Reactjs and AWS right now<br>📫 How to reach me: <a href="mailto:gauravmarwal99@gmail.com">gauravmarwal99@gmail.com</a></p> 
+<p align="left">🔭 I’m currently working on building scalable solutions leveraging microservices. <br>🧑‍💻 I'm also contributing to <a href="https://gitlab.com/gauravmarwal">Gitlab OSS</a> <br>📚 Learning Django and AWS right now<br>📫 How to reach me: <a href="mailto:gauravmarwal99@gmail.com">gauravmarwal99@gmail.com</a></p> 
 
 ###
 
@@ -36,14 +36,6 @@
 [![](https://badgen.net/badge/gitlab-org%2Fgitlab-shell/31%20pull%20requests%20merged/orange?icon=gitlab)](https://gitlab.com/gitlab-org/gitlab-shell/-/merge_requests?scope=all&state=merged&author_username=gauravmarwal)
 [![](https://badgen.net/badge/gitlab-org%2Fgitlab/98%20pull%20requests%20merged/orange?icon=gitlab)](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&state=merged&author_username=gauravmarwal)
 <!-- MERGED_PULL_REQUESTS_END -->
-
-###
-
-<h2 align="left">Leetcode:</h2>
-
-###
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/gauravmarwal?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/u/gauravmarwal/)
 
 ###
 
